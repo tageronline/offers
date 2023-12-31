@@ -24,7 +24,8 @@ body {
 
 @keyframes moving {
     from {
-        opacity: 0;
+        opacity: 5;
+        color: white
         
     }
     
