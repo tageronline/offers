@@ -1,0 +1,117 @@
+body {
+    background: black
+}
+
+.logo {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%
+}
+
+.navbar-toggler{
+    background-color: black;
+    color: white
+}
+
+.navbar-toggler-icon {
+    color: white
+}
+.card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative
+}
+
+.flex1 {
+    display: flex;
+    justify-content: space-around
+}
+
+
+.center {
+    height: 30px;
+    text-align: center;
+    margin-top: 10px;
+    color: red;
+    box-shadow: 10px 10px 10px black;
+    text-shadow: 10px 10px 10px black;
+    border-radius: 20px;
+    line-height: 20px
+}
+
+.one img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-bottom: 5px
+}
+
+
+.two img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-bottom: 5px
+}
+
+.card-title {
+    color: red;
+    font-size: 15px;
+
+}
+
+.pay {
+    position: absolute;
+    color: blue;
+    left: 150px;
+    top: 80px;
+    background: yellow;
+    border-radius: 50px
+}
+
+#ul1 , #ul2 , #ul3 , #ul4 , #ul5 , #ul6 ,  #ulcartoon {
+    display: none;
+}
+#whats1 , #whats2 , #whats3 , #whats4 , #whats5 , #whats6 ,  #whatscartoon {
+    display: none
+}
+
+#ul1 li , #ul2 li , #ul3 li , #ul4 li , #ul5 li , #ul6 li ,  #ulcartoon li {
+    list-style:circle;
+    font-size: 12px;
+    font-weight: thin;
+    margin-bottom: 12px;
+    
+}
+
+a img {
+    height: 40px;
+    width: 40px
+}
+
+.only1 {
+    text-align: center
+}
+
+.only1 span {
+    color: blue
+}
+
+s{
+    color: red
+}
+
+
+.end {
+    text-align: center;
+    font-size: 13px;
+    color: red;
+    margin-bottom: 20px
+}
+
+.end img {
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 10px
+}
