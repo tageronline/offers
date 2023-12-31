@@ -8,14 +8,9 @@ body {
     border-radius: 50%
 }
 
-.navbar-toggler{
-    background-color: black;
-    color: white
-}
 
-.navbar-toggler-icon {
-    color: white
-}
+
+
 .card {
     margin-top: 10px;
     margin-bottom: 10px;
