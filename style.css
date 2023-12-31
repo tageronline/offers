@@ -8,7 +8,32 @@ body {
     border-radius: 50%
 }
 
+.why {
+    text-align: center;
+    margin-top: 10px
+    
+}
 
+.why1 {
+    animation: moving 3s infinite ;
+}
+
+.why2 {
+    display: none
+}
+
+@keyframes moving {
+    from {
+        opacity: 0;
+        
+    }
+    
+    to {
+        opacity: 10;
+        color: red
+        
+    }
+}
 
 
 .card {
